@@ -26,7 +26,7 @@ author:
   name             : "Ferenc Balogh"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  #location         : "Earth"
+  location         : 
   employer         : "John Abbott College"
   uri              : # URL
   email            : "none@example.org" 
