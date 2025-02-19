@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This page is under construction...
+I am teaching Mathematics at John Abbott College.
